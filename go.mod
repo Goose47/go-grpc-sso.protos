@@ -1,4 +1,4 @@
-module github.com/Goose47/sso.protos
+module github.com/Goose47/go-grpc-sso.protos
 
 go 1.22.4
 
